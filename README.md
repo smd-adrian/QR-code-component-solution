@@ -4,13 +4,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+-   [Overview](#overview)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+-   [Author](#author)
+-   [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,17 +20,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/smd-adrian/QR-code-component-solution)
-- Live Site URL: [Add live site URL here](https://smd-adrian.github.io/QR-code-component-solution/)
+-   Solution URL: [Add solution URL here](https://github.com/smd-adrian/QR-code-component-solution)
+-   Live Site URL: [Add live site URL here](https://smd-adrian.github.io/QR-code-component-solution/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
 
 ## Author
 
-- Adrian Cano
+-   Adrian Cano

@@ -16,6 +16,10 @@ body {
     font-size: 15px;
 }
 
+main {
+    height: 100%;
+}
+
 .qr {
     position: relative;
     display: flex;
